@@ -7,5 +7,5 @@ import { Component, Input } from '@angular/core';
   styleUrl: './input.component.css'
 })
 export class InputComponent {
-  @Input() sPlaceholder !: "";
+  @Input() sPlaceholder !: string;
 }
