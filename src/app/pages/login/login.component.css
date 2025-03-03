@@ -1,0 +1,22 @@
+section#login
+{
+  height: 100%;
+
+  background-color: #ededed;
+
+  display: grid;
+  place-items: center;
+
+  padding: 20px;
+}
+
+section#login form
+{
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 13px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
